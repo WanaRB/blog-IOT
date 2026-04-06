@@ -1,9 +1,7 @@
-# Dokumentasi Matakuliah Internet of Things
-**Nama:** [Nama Anda]
-**NIM:** [NIM Anda]
+# Dokumentasi Tugas IoT - UBSI
 
-## Resume 1: M2M vs IoT
-(Isi rangkuman dari file Word Anda di sini...)
+Selamat datang di blog dokumentasi saya. Berikut adalah rangkuman materi sesuai RTM:
 
-## Resume 2: Arsitektur & Struktur IoT
-(Isi rangkuman dari file Word Anda di sini...)
+* [Resume 1: Perbedaan M2M dan IoT (Minggu 1-3)](resume-1-m2m.md)
+* [Resume 2: Struktur Dasar dan Fungsi IoT (Minggu 4-6)](resume-2-struktur.md)
+* [Tugas Akhir: Proyek Implementasi IoT](project-iot/README.md)
